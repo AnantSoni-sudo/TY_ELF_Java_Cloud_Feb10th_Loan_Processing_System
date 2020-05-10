@@ -1,0 +1,2556 @@
+Profile :- 
+Application ID      : 601
+Customer Number     : 201
+First Name          : Andrew
+Last Name           : John
+Username            : andrew12
+Password            : Andrew@123
+Email               : andrew12@gmail.com
+Date of Birth       : 28-01-1998
+Mobile Number       : 9480342924
+Loan Account Number : 32147852369
+Loan Type           : Home Extention
+Account Balance     : 30000.23
+Amount To Pay       : 5000.28
+Loan Amount         : 90000.32
+Loan Approval Date  : 20-02-2020
+LoanBean(bankName=HDFC Bank, loanType=Home Purchase loan, emi=752, rateOfInterest=8.00%, loanAmount=500000)
+LoanBean(bankName=SBI Bank, loanType=Loan Type:Home Construction loan, emi=EMI Rs.800/lakh*, rateOfInterest=Rate of Interest 7.00%-8.50%, loanAmount=Loan Amount Rs 5L - Rs 15Cr )
+LoanBean(bankName=SBI Bank, loanType=Loan Type:Home Extention loan, emi=EMI Rs.850/lakh*, rateOfInterest=Rate of Interest 7.5%-8.50%, loanAmount=Loan Amount Rs 50L - Rs 5Cr )
+LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi=4500, rateOfInterest=8.0%, loanAmount=200000)
+LoanBean(bankName=HDFC Bank, loanType=Home Purchase loan, emi=752, rateOfInterest=8.00%, loanAmount=500000)
+LoanBean(bankName=SBI Bank, loanType=Loan Type:Home Construction loan, emi=EMI Rs.800/lakh*, rateOfInterest=Rate of Interest 7.00%-8.50%, loanAmount=Loan Amount Rs 5L - Rs 15Cr )
+LoanBean(bankName=SBI Bank, loanType=Loan Type:Home Extention loan, emi=EMI Rs.850/lakh*, rateOfInterest=Rate of Interest 7.5%-8.50%, loanAmount=Loan Amount Rs 50L - Rs 5Cr )
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Username :- 
+Enter Password :- 
+Enter proper Password!
+Enter the combination of number, alphabets and special characters !
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Customer EmailId :- 
+Email already exist!
+Enter Customer EmailId :- 
+Enter Mobile Number :- 
+Enter correct mobile number!
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+
+Enter Username : 
+Enter password   : 
+Opps! invalid choice
+
+Enter Username : 
+Enter password   : 
+Enter Valid Password!!
+Enter password   : 
+Opps! invalid choice
+Login Unsuccessful!!!
+
+Enter Username : 
+Enter password   : 
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+------------------------------------------------
+||            Make Loan Section               ||
+------------------------------------------------
+Enter Application Id :- 
+Enter Username :- 
+Enter Password :- 
+Enter proper Password!
+Enter the combination of number, alphabets and special characters !
+Enter Password :- 
+Enter proper Password!
+Enter the combination of number, alphabets and special characters !
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Customer EmailId :- 
+Email already exist!
+Enter Customer EmailId :- 
+Enter Mobile Number :- 
+Enter correct mobile number!
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Customer added successfully..
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+Please enter only one digit!!
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+
+Enter Username : 
+Enter password   : 
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+------------------------------------------------
+||            Make Loan Section               ||
+------------------------------------------------
+Enter Application Id :- 
+Enter Username :- 
+Enter proper Username!!
+Enter number and alphabets Only!
+Enter Username :- 
+Enter proper Username!!
+Enter number and alphabets Only!
+Enter Username :- 
+Enter Password :- 
+Enter proper Password!
+Enter the combination of number, alphabets and special characters !
+Enter Password :- 
+Enter proper Password!
+Enter the combination of number, alphabets and special characters !
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Customer EmailId :- 
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Customer added successfully..
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+Please enter only one digit!!
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Username :- 
+Enter Password :- 
+Enter proper Password!
+Enter the combination of number, alphabets and special characters !
+Enter Password :- 
+Enter proper Password!
+Enter the combination of number, alphabets and special characters !
+Enter Password :- 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Username :- 
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Customer EmailId :- 
+Email already exist!
+Enter Customer EmailId :- 
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter correct Account Number!
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Enter Number Only!!
+Invalid option!
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Make loan failed 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Username :- 
+Enter proper Username!!
+Enter number and alphabets Only!
+Enter Username :- 
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Customer EmailId :- 
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Enter Number Only!!
+Invalid option!
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Customer added successfully..
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Username :- 
+Enter proper Username!!
+Enter number and alphabets Only!
+Enter Username :- 
+Enter proper Username!!
+Enter number and alphabets Only!
+Enter Username :- 
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Customer EmailId :- 
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Customer added successfully..
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+
+Enter Username : 
+Enter password   : 
+Opps! invalid choice
+
+Enter Username : 
+Enter Valid Username!!
+
+Enter Username : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Username :- 
+Enter Password :- 
+Enter proper Password!
+Enter the combination of number, alphabets and special characters !
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Customer EmailId :- 
+Email already exist!
+Enter Customer EmailId :- 
+Enter Mobile Number :- 
+Enter correct mobile number!
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+make loan failed
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+====================================================
+||        Welcome to Loan Processing System       ||
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+------------------------------------------------
+||     Welcome to Approval Team Section       ||
+------------------------------------------------
+Enter username :
+Enter password :
+Enter Valid Password!!
+Enter password :
+Sorry! cannot access because you are not from approval department
+Login Unsuccessful!!!
+Enter username :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+------------------------------------------------
+||     Welcome to Approval Team Section       ||
+------------------------------------------------
+Enter username :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+------------------------------------------------
+||     Welcome to Approval Team Section       ||
+------------------------------------------------
+Enter username :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+------------------------------------------------
+||     Welcome to Approval Team Section       ||
+------------------------------------------------
+Enter username :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+
+Enter Username : 
+Enter password   : 
+Opps! login failed....please enter valid username or password
+
+Enter Username : 
+Enter password   : 
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+ logged out successfully!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+
+Enter Username : 
+Enter password   : 
+enter valid username or password
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+
+Enter Username : 
+Enter password   : 
+enter valid username or password
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+
+Enter Username : 
+Enter password   : 
+Enter Valid Password!!
+Enter password   : 
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+------------------------------------------------
+||         Applicant  Loan  Details           ||
+------------------------------------------------
+Profile :- 
+Application ID      : 700
+First Name          : Raju
+Last Name           : Guru
+Username            : Rajuguru12
+Password            : Raju@123
+Email               : raju@gmail.com
+Date of Birth       : 20-02-1988
+Mobile Number       : 9638527412
+Loan Type           : House Extention
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+ logged out successfully!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to login as Customer     :
+Press 2 to login as Applicant    :
+Enter your choice                :
+
+Enter Username : 
+Enter password   : 
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+------------------------------------------------
+||            Make Loan Section               ||
+------------------------------------------------
+Enter Application Id :- 
+Enter numbers only ...!!!!
+Enter Application Id :- 
+Enter Username :- 
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Customer EmailId :- 
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Request Failed
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+====================================================
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+||        Welcome to Loan Processing System       ||
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Number Only!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan      : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Number Only!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Number Only!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter password : 
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Proper option!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Number Only!!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter proper Username 
+Enter username : 
+Enter password : 
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Enter Number Only!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Enter Number Only!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Enter Number Only!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+LOGGED OUT...
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter proper Username 
+Enter username : 
+Enter password : 
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter password : 
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+------------------------------------------------
+||               CLIENT MANAGER               ||
+------------------------------------------------
+Enter 1 to ADD CLIENT    : 
+Enter 2 to VIEW All Applications   : 
+Enter 3 to VIEW CLIENTS   : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Enter Number Only!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter proper Username 
+Enter username : 
+Enter proper Username 
+Enter username : 
+Enter proper Username 
+Enter username : 
+Enter proper Username 
+Enter username : 
+Enter password : 
+Sorry! cannot access because you are not an Admin
+Login Unsuccessful!!!
+Enter username : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter password : 
+Sorry! cannot access because you are not an Admin
+Login Unsuccessful!!!
+Enter username : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter password : 
+Enter Valid Password !
+Enter password : 
+Sorry! cannot access because you are not an Admin
+Login Unsuccessful!!!
+Enter username : 
+Profile :- 
+Application ID      : 700
+First Name          : Raju
+Last Name           : Guru
+Username            : Rajuguru12
+Password            : Raju@123
+Email               : raju@gmail.com
+Date of Birth       : 20-02-1988
+Mobile Number       : 9638527412
+Loan Type           : House Extention
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Number Only!!!
+Enter Application Id :- 
+Enter Number Only!!!
+Enter Application Id :- 
+Enter Username :- 
+username must contain minimum 6 alphabets and atleast 1 number
+Enter Password :- 
+password should contain min 8 characters ,atleast 1 upper case alphabet, 1 lowercase,1 special character and 1 number 
+Enter Password :- 
+password should contain min 8 characters ,atleast 1 upper case alphabet, 1 lowercase,1 special character and 1 number 
+Enter Password :- 
+password should contain min 8 characters ,atleast 1 upper case alphabet, 1 lowercase,1 special character and 1 number 
+Enter Password :- 
+password should contain min 8 characters ,atleast 1 upper case alphabet, 1 lowercase,1 special character and 1 number 
+Enter Password :- 
+password should contain min 8 characters ,atleast 1 upper case alphabet, 1 lowercase,1 special character and 1 number 
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter Applicant EmailId :- 
+Enter proper Email-Id!
+Enter Applicant EmailId :- 
+Enter Mobile Number :- 
+Enter valid  mobile number!
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Request Failed
+Enter Username :- 
+This Username already exist....!!
+Enter Password :- 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+This Application Id Already Exists
+Enter Application Id :- 
+This Application Id Already Exists
+Enter Application Id :- 
+Enter Username :- 
+This Username already exist....!!
+Enter Password :- 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Username :- 
+This Username already exist....!!
+Enter Password :- 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+Enter Username :- 
+This Username already exist....!!
+Enter Username :- 
+Enter Password :- 
+Enter First Name :- 
+Enter Last Name :- 
+Enter alphabets only!
+Enter Last Name :- 
+Enter Applicant EmailId :- 
+Enter Mobile Number :- 
+Enter Date of Birth :- 
+Enter Account Number :- 
+Enter valid 11 digit  Account Number!
+Enter Account Number :- 
+Enter loan type  :- 
+Available loans  :- 
+1 - House Extention
+2 - House Construction
+3 - House Conversion
+4 - House Improvement
+Enter your choice :- 
+Applied Successfully..
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter password : 
+Invalid Username or Password
+Enter username : 
+Enter password : 
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+------------------------------------------------
+|               ADD LOAN PROGRAMS                |
+------------------------------------------------
+Enter Bank Name   :
+Enter Loan Type   :
+Enter Emi : 
+Enter Rate of interest : 
+Enter Proper Rate Of Intrest!
+Enter Rate of interest : 
+Enter Proper Rate Of Intrest!
+Enter Rate of interest : 
+Enter loan amount : 
+Enter Proper Loan Amount!
+Enter loan amount : 
+Enter Proper Loan Amount!
+Enter loan amount : 
+Enter Proper Loan Amount!
+Enter loan amount : 
+Enter Proper Loan Amount!
+Enter loan amount : 
+Enter Proper Loan Amount!
+Enter loan amount : 
+LoanBean(bankName=ICIC, loanType=House Construction, emi=7896, rateOfInterest=8.25%, loanAmount=012546)
+Information added Successfully...
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+-------------------------------------------------------
+||               VIEW  LOAN PROGRAMS                    ||
+-------------------------------------------------------
+LoanBean(bankName= HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=SBI Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= SBI Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=SBI Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+LoanBean(bankName=ICIC, loanType=House Construction, emi=7896, rateOfInterest=8.25%, loanAmount=012546)
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+------------------------------------------------
+|              DELETE LOAN PROGRAMS              |
+------------------------------------------------
+Enter bank name :  
+Deletion Failed
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+------------------------------------------------
+|              DELETE LOAN PROGRAMS              |
+------------------------------------------------
+Enter bank name :  
+Information Deleted Successfully...
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+-------------------------------------------------------
+||               VIEW  LOAN PROGRAMS                    ||
+-------------------------------------------------------
+LoanBean(bankName= HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=SBI Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= SBI Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=SBI Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+-------------------------------------------------------
+||               VIEW  LOAN PROGRAMS                    ||
+-------------------------------------------------------
+LoanBean(bankName= HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=SBI Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= SBI Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=SBI Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+------------------------------------------------
+||               CLIENT MANAGER               ||
+------------------------------------------------
+Enter 1 to ADD CLIENT    : 
+Enter 2 to VIEW All Applications   : 
+Enter 3 to VIEW CLIENTS   : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter password : 
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+------------------------------------------------
+||               CLIENT MANAGER               ||
+------------------------------------------------
+Enter 1 to ADD CLIENT    : 
+Enter 2 to VIEW All Applications   : 
+Enter 3 to VIEW CLIENTS   : 
+---------------------------------------------
+|             VIEW Applications             |
+---------------------------------------------
+*****************************************
+Application Id    :- 700
+User Name         :- Rajuguru12
+First Name        :- Raju
+Last Name         :- Guru
+Mobile Number     :- 9638527412
+Date Of Birth     :- 20-02-1988
+Email Id          :- raju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 701
+User Name         :- Manjuravi12
+First Name        :- Manju
+Last Name         :- Ravi
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-02-1988
+Email Id          :- manju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 702
+User Name         :- Ravisharma12
+First Name        :- Ravi
+Last Name         :- Sharma
+Mobile Number     :- 9638500202
+Date Of Birth     :- 18-02-1987
+Email Id          :- ravi.s@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 704
+User Name         :- Suryaraju12
+First Name        :- Surya
+Last Name         :- Raju
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-05-1988
+Email Id          :- raju.s@gmail.com
+Status            :- Requested
+*****************************************
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+------------------------------------------------
+||               CLIENT MANAGER               ||
+------------------------------------------------
+Enter 1 to ADD CLIENT    : 
+Enter 2 to VIEW All Applications   : 
+Enter 3 to VIEW CLIENTS   : 
+---------------------------------------------
+|             ADD CLIENT             |
+---------------------------------------------
+Enter Full Name   :
+Enter Password   :
+Enter Email Id : 
+Enter Employee Id :-
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter password : 
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+------------------------------------------------
+||               CLIENT MANAGER               ||
+------------------------------------------------
+Enter 1 to ADD CLIENT    : 
+Enter 2 to VIEW All Applications   : 
+Enter 3 to VIEW CLIENTS   : 
+---------------------------------------------
+|             ADD CLIENT             |
+---------------------------------------------
+Enter Full Name   :
+Enter Password   :
+Enter Email Id : 
+Enter proper Email Id !
+Enter Email Id : 
+Email Already Exists...!!
+Enter Email Id : 
+Enter Employee Id :-
+This Employe Id Already Exists
+Enter Employee Id :-
+Enter UserName : 
+UserName should contain minimum 8 characters ! 
+Enter UserName : 
+Username already exist
+Enter UserName : 
+ApprovalTeamBean(empId=8455, fullName=hjahj, password=Qwerty@123, emailId=hgwgh@bnna, userName=hbdbhj123)
+Client added Successfully...
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+------------------------------------------------
+||               CLIENT MANAGER               ||
+------------------------------------------------
+Enter 1 to ADD CLIENT    : 
+Enter 2 to VIEW All Applications   : 
+Enter 3 to VIEW CLIENTS   : 
+---------------------------------------------
+|             VIEW CLIENTS            |
+---------------------------------------------
+*****************************************
+Employee Id    :- 2020004
+User Name         :- manukc12
+Full Name        :- Manu
+Email Id          :- manu12@gmail.com
+*****************************************
+*****************************************
+Employee Id    :- 8455
+User Name         :- hbdbhj123
+Full Name        :- hjahj
+Email Id          :- hgwgh@bnna
+*****************************************
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+Please Enter Valid Choice!!
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+LOGGED OUT...
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to logIn       :
+Press 2 to logIn as Applicant    :
+Enter your choice      :
+
+Enter Username : 
+Enter password   : 
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+------------------------------------------------
+||            View Loan Programs              ||
+------------------------------------------------
+LoanBean(bankName= HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=CANARA Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+------------------------------------------------
+||              Loan Details                  ||
+------------------------------------------------
+Profile :- 
+Application ID      : 601
+Customer Number     : 201
+First Name          : Andrew
+Last Name           : John
+Username            : andrew12
+Password            : Andrew@123
+Email               : andrew12@gmail.com
+Date of Birth       : 28-01-1998
+Mobile Number       : 9480342924
+Loan Account Number : 32147852369
+Loan Type           : Home Extention
+Account Balance     : 30000.23
+Amount To Pay       : 5000.28
+Loan Amount         : 90000.32
+Loan Approval Date  : 20-02-2020
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+ logged out successfully!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to logIn       :
+Press 2 to logIn as Applicant    :
+Enter your choice      :
+
+Enter Username : 
+Enter Valid Username!!
+
+Enter Username : 
+Enter password   : 
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+------------------------------------------------
+||         Applicant  Loan  Details           ||
+------------------------------------------------
+Profile :- 
+Application ID      : 700
+First Name          : Raju
+Last Name           : Guru
+Username            : Rajuguru12
+Password            : Raju@123
+Email               : raju@gmail.com
+Date of Birth       : 20-02-1988
+Mobile Number       : 9638527412
+Loan Type           : House Extention
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+------------------------------------------------
+||         Applicant  Loan  Details           ||
+------------------------------------------------
+Profile :- 
+Application ID      : 700
+First Name          : Raju
+Last Name           : Guru
+Username            : Rajuguru12
+Password            : Raju@123
+Email               : raju@gmail.com
+Date of Birth       : 20-02-1988
+Mobile Number       : 9638527412
+Loan Type           : House Extention
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to logIn       :
+Press 2 to logIn as Applicant    :
+Enter your choice      :
+
+Enter Username : 
+Enter password   : 
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+------------------------------------------------
+||         Applicant  Loan  Details           ||
+------------------------------------------------
+Profile :- 
+Application ID      : 700
+First Name          : Raju
+Last Name           : Guru
+Username            : Rajuguru12
+Password            : Raju@123
+Email               : raju@gmail.com
+Date of Birth       : 20-02-1988
+Mobile Number       : 9638527412
+Loan Type           : House Extention
+Application Status   : Requested
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+ logged out successfully!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+Enter Application Id :- 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||     Welcome to Approval Team Section       ||
+------------------------------------------------
+Enter username :
+Enter password :
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+-------------------------------------------------------
+||                  LOAN PROGRAMS                    ||
+-------------------------------------------------------
+LoanBean(bankName= HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=CANARA Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+---------------------------------------------
+|             View Customer Applications             |
+---------------------------------------------
+*****************************************
+Application Id    :- 700
+User Name         :- Rajuguru12
+First Name        :- Raju
+Last Name         :- Guru
+Mobile Number     :- 9638527412
+Date Of Birth     :- 20-02-1988
+Email Id          :- raju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 701
+User Name         :- Manjuravi12
+First Name        :- Manju
+Last Name         :- Ravi
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-02-1988
+Email Id          :- manju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 702
+User Name         :- Ravisharma12
+First Name        :- Ravi
+Last Name         :- Sharma
+Mobile Number     :- 9638500202
+Date Of Birth     :- 18-02-1987
+Email Id          :- ravi.s@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 704
+User Name         :- Suryaraju12
+First Name        :- Surya
+Last Name         :- Raju
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-05-1988
+Email Id          :- raju.s@gmail.com
+Status            :- Requested
+*****************************************
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+-------------------------------------------------------
+||      UPDATE STATUS OF REQUESTED APPLICATIONS      ||
+-------------------------------------------------------
+Enter Application Id    : 
+Appication exists for this Id!!
+Enter 1 to Accept
+Enter 2 to Reject
+Please Enter Valid Choice!!
+status Updation Failed!!!
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+Enter Number Only!!!
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+-------------------------------------------------------
+||      UPDATE STATUS OF REQUESTED APPLICATIONS      ||
+-------------------------------------------------------
+Enter Application Id    : 
+Appication exists for this Id!!
+Enter 1 to Accept
+Enter 2 to Reject
+Staus changed to Rejected
+Application status Updated Successfully...
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+LOGGED OUT...
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to logIn       :
+Press 2 to logIn as Applicant    :
+Enter your choice      :
+
+Enter Username : 
+Enter password   : 
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+------------------------------------------------
+||         Applicant  Loan  Details           ||
+------------------------------------------------
+Profile :- 
+Application ID      : 704
+First Name          : Surya
+Last Name           : Raju
+Username            : Suryaraju12
+Password            : SuryaRaju@123
+Email               : raju.s@gmail.com
+Date of Birth       : 18-05-1988
+Mobile Number       : 9638500002
+Loan Type           : House Improvement
+Application Status   : Reject
+Press 1 to VIEW LOAN PROGRAMS             :
+Press 2 to  Applicant Loan Details        :
+Press 3 to log-out                        :
+Enter your choice                         :
+ logged out successfully!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||        Welcome to Customer Section         ||
+------------------------------------------------
+Press 1 to logIn       :
+Press 2 to logIn as Applicant    :
+Enter your choice      :
+
+Enter Username : 
+Enter password   : 
+Press 1 to MAKE LOAN           :
+Press 2 to VIEW LOAN PROGRAMS  :
+Press 3 to LOAN DETAILS        :
+Press 4 to log-out             :
+Enter your choice              :
+ logged out successfully!
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||          Welcome to Admin Section          ||
+------------------------------------------------
+Enter username : 
+Enter password : 
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+------------------------------------------------
+|              DELETE LOAN PROGRAMS              |
+------------------------------------------------
+Enter bank name :  
+Deletion Failed
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+------------------------------------------------
+|              DELETE LOAN PROGRAMS              |
+------------------------------------------------
+Enter bank name :  
+Information Deleted Successfully...
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+================================================
+||               LOAN PROGRAMS                 ||
+================================================
+------------------------------------------------
+||               LOAN DETAILS                 ||
+------------------------------------------------
+ Enter 1 to Add Loan Programs       : 
+ Enter 2 to Delete Loan Programs    : 
+ Enter 3 to View Loan Programs    : 
+------------------------------------------------
+|               ADD LOAN PROGRAMS                |
+------------------------------------------------
+Enter Bank Name   :
+Enter Loan Type   :
+Enter Emi : 
+Enter proper EMI !
+Enter Emi : 
+Enter proper EMI !
+Enter Emi : 
+Enter proper EMI !
+Enter Emi : 
+Enter proper EMI !
+Enter Emi : 
+Enter proper EMI !
+Enter Emi : 
+Enter Rate of interest : 
+Enter loan amount : 
+Enter Proper Loan Amount!
+Enter loan amount : 
+Enter Proper Loan Amount!
+Enter loan amount : 
+LoanBean(bankName=HDFC Bank, loanType=dasfasf, emi=23456, rateOfInterest=12.45%, loanAmount=121212)
+Information added Successfully...
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+------------------------------------------------
+||               CLIENT MANAGER               ||
+------------------------------------------------
+Enter 1 to ADD CLIENT    : 
+Enter 2 to VIEW All Applications   : 
+Enter 3 to VIEW CLIENTS   : 
+---------------------------------------------
+|             VIEW CLIENTS            |
+---------------------------------------------
+*****************************************
+Employee Id    :- 2020004
+User Name         :- manukc12
+Full Name        :- Manu
+Email Id          :- manu12@gmail.com
+*****************************************
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+------------------------------------------------
+||               CLIENT MANAGER               ||
+------------------------------------------------
+Enter 1 to ADD CLIENT    : 
+Enter 2 to VIEW All Applications   : 
+Enter 3 to VIEW CLIENTS   : 
+---------------------------------------------
+|             VIEW Applications             |
+---------------------------------------------
+*****************************************
+Application Id    :- 700
+User Name         :- Rajuguru12
+First Name        :- Raju
+Last Name         :- Guru
+Mobile Number     :- 9638527412
+Date Of Birth     :- 20-02-1988
+Email Id          :- raju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 701
+User Name         :- Manjuravi12
+First Name        :- Manju
+Last Name         :- Ravi
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-02-1988
+Email Id          :- manju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 702
+User Name         :- Ravisharma12
+First Name        :- Ravi
+Last Name         :- Sharma
+Mobile Number     :- 9638500202
+Date Of Birth     :- 18-02-1987
+Email Id          :- ravi.s@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 704
+User Name         :- Suryaraju12
+First Name        :- Surya
+Last Name         :- Raju
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-05-1988
+Email Id          :- raju.s@gmail.com
+Status            :- Requested
+*****************************************
+ Press 1 to LOAN PROGRAMS      : 
+ Press 2 to CLIENT MANAGER   : 
+ Press 3 to LOG OUT          : 
+LOGGED OUT...
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
+------------------------------------------------
+||     Welcome to Approval Team Section       ||
+------------------------------------------------
+Enter username :
+Enter Valid Username ! 
+Enter username :
+Enter password :
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+-------------------------------------------------------
+||                  LOAN PROGRAMS                    ||
+-------------------------------------------------------
+LoanBean(bankName= HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName= VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+LoanBean(bankName=HDFC Bank, loanType=dasfasf, emi=23456, rateOfInterest=12.45%, loanAmount=121212)
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+---------------------------------------------
+|             View Customer Applications             |
+---------------------------------------------
+*****************************************
+Application Id    :- 700
+User Name         :- Rajuguru12
+First Name        :- Raju
+Last Name         :- Guru
+Mobile Number     :- 9638527412
+Date Of Birth     :- 20-02-1988
+Email Id          :- raju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 701
+User Name         :- Manjuravi12
+First Name        :- Manju
+Last Name         :- Ravi
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-02-1988
+Email Id          :- manju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 702
+User Name         :- Ravisharma12
+First Name        :- Ravi
+Last Name         :- Sharma
+Mobile Number     :- 9638500202
+Date Of Birth     :- 18-02-1987
+Email Id          :- ravi.s@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 704
+User Name         :- Suryaraju12
+First Name        :- Surya
+Last Name         :- Raju
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-05-1988
+Email Id          :- raju.s@gmail.com
+Status            :- Requested
+*****************************************
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+-------------------------------------------------------
+||      UPDATE STATUS OF REQUESTED APPLICATIONS      ||
+-------------------------------------------------------
+Enter Application Id    : 
+Appication exists for this Id!!
+Enter 1 to Accept
+Enter 2 to Reject
+Status changed to Accepted
+Application status Updated Successfully...
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+---------------------------------------------
+|             View Customer Applications             |
+---------------------------------------------
+*****************************************
+Application Id    :- 700
+User Name         :- Rajuguru12
+First Name        :- Raju
+Last Name         :- Guru
+Mobile Number     :- 9638527412
+Date Of Birth     :- 20-02-1988
+Email Id          :- raju@gmail.com
+Status            :- Accept
+*****************************************
+*****************************************
+Application Id    :- 701
+User Name         :- Manjuravi12
+First Name        :- Manju
+Last Name         :- Ravi
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-02-1988
+Email Id          :- manju@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 702
+User Name         :- Ravisharma12
+First Name        :- Ravi
+Last Name         :- Sharma
+Mobile Number     :- 9638500202
+Date Of Birth     :- 18-02-1987
+Email Id          :- ravi.s@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 704
+User Name         :- Suryaraju12
+First Name        :- Surya
+Last Name         :- Raju
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-05-1988
+Email Id          :- raju.s@gmail.com
+Status            :- Requested
+*****************************************
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+-------------------------------------------------------
+||      UPDATE STATUS OF REQUESTED APPLICATIONS      ||
+-------------------------------------------------------
+Enter Application Id    : 
+Appication exists for this Id!!
+Enter 1 to Accept
+Enter 2 to Reject
+Staus changed to Rejected
+Application status Updated Successfully...
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+---------------------------------------------
+|             View Customer Applications             |
+---------------------------------------------
+*****************************************
+Application Id    :- 700
+User Name         :- Rajuguru12
+First Name        :- Raju
+Last Name         :- Guru
+Mobile Number     :- 9638527412
+Date Of Birth     :- 20-02-1988
+Email Id          :- raju@gmail.com
+Status            :- Accept
+*****************************************
+*****************************************
+Application Id    :- 701
+User Name         :- Manjuravi12
+First Name        :- Manju
+Last Name         :- Ravi
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-02-1988
+Email Id          :- manju@gmail.com
+Status            :- Reject
+*****************************************
+*****************************************
+Application Id    :- 702
+User Name         :- Ravisharma12
+First Name        :- Ravi
+Last Name         :- Sharma
+Mobile Number     :- 9638500202
+Date Of Birth     :- 18-02-1987
+Email Id          :- ravi.s@gmail.com
+Status            :- Requested
+*****************************************
+*****************************************
+Application Id    :- 704
+User Name         :- Suryaraju12
+First Name        :- Surya
+Last Name         :- Raju
+Mobile Number     :- 9638500002
+Date Of Birth     :- 18-05-1988
+Email Id          :- raju.s@gmail.com
+Status            :- Requested
+*****************************************
+Press 1 for VIEW LOAN PROGRAMS      : 
+Press 2 to VIEW CUSTOMER APPLICATIONS  : 
+Press 3 to UPDATE APPLICATION STATUS           : 
+Press 4 to LOG OUT                 : 
+LOGGED OUT...
+====================================================
+||        Welcome to Loan Processing System       ||
+====================================================
+----------------------------------------------------
+-                Choose the User type              -
+----------------------------------------------------
+	1 - Admin          : 
+	2 - Customer       : 
+	3 - Approval Team  : 
+	4 - Make Loan  : 
+----------------------------------------------------
+Enter your choice    : 
