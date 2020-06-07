@@ -28,15 +28,14 @@ public class ApplicationServiceTestImpl {
 			assertEquals(true, flag);
 		} catch (Exception e) {
 			applicationService.addApplication(customer);
-		}
-		;
-	} // end of catch block
+		} // End of catch block
+	} // End of addApplicationTest()
 
 	@Test
 	void getAllApplicationTest() {
 		List<ApplicationBean> allApplication = applicationService.viewApplication();
 		assertNotNull(allApplication);
-	}
+	} // End of getAllApplicationTest()
 
 	@Test
 	void updateApplication() {
@@ -47,8 +46,8 @@ public class ApplicationServiceTestImpl {
 			assertEquals(flag, true);
 		} catch (Exception e) {
 			applicationService.updateApplicationStatus(702, "Accept");
-		}
-	} // end of catch block
+		} // End of catch block
+	} // End of updateApplication()
 	
 	@Test
 	void makeLoan() {
@@ -64,22 +63,11 @@ public class ApplicationServiceTestImpl {
 		application.setStatus("Requested");
 		boolean flag = applicationService.makeLoan(application);
 		assertEquals(flag, true);
-		
-	}
+	}// End of makeLoan()
+	
 	@Test
 	void applicantLoanDetails() {
 		boolean flag = applicationService.applicantLoanDetails("Rajuguru12", "Raju@123");
 		assertEquals(flag, true);
-	}  //ADD in  ApplicationServiceTestImpl
-
-//	@Test
-//	void getApplicationByStatausTest() {
-//		application.setLoanType("Home Construction");
-//		try {
-//			ApplicationBean applicationBean = applicationDao.getAllApplication("Home Construction");
-//			assertNotNull(applicationBean);
-//		} catch (Exception e) {
-//			applicationDao.getAllApplication(application.getStatus());
-//		}
-//	}
-}
+	} // End of applicationLoanDetails()
+} // End of class

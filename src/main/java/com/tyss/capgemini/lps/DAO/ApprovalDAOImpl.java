@@ -18,12 +18,12 @@ public class ApprovalDAOImpl implements ApprovalDAO {
 
 		LoanProcessingSystemDB.APPROVAL_TEAM_BEANS.add(approvalBean);
 		return false; // true
-	}
+	} // End of addClient()
 
 	@Override
 	public List<ApprovalTeamBean> viewApplication() {
 		List<ApprovalTeamBean> approvalBean = LoanProcessingSystemDB.APPROVAL_TEAM_BEANS;
 		return approvalBean;
-	}
+	} // End of viewApplication()
 
-}
+}// End of class

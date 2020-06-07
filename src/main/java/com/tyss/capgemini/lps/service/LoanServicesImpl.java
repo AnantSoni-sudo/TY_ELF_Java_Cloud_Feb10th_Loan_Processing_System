@@ -12,17 +12,16 @@ public class LoanServicesImpl implements LoanServices {
 	@Override
 	public boolean addLoanInformation(LoanBean loanBean) {
 		return dao.addLoanInformation(loanBean);
-	}
+	} // End of addLoanInformation()
 
 	@Override
 	public boolean deleteLoanInformation(String bankName) {
 		return dao.deleteLoanInformation(bankName);
-	}
+	} // End of deleteLoanInformation()
 
 	@Override
 	public LoanProgRepository getLoanPrograms() {
 		return dao.getloanPrograms();
-	}
+	} // End of getLoanPrograms()
 
-
-}
+} // End of class

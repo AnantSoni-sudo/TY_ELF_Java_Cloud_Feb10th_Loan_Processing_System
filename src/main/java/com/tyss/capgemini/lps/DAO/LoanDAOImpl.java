@@ -22,7 +22,7 @@ public class LoanDAOImpl implements LoanDAO {
 
 		LoanProgRepository.ARRAY_LIST.add(loanBean);
 		return false; // true
-	}
+	} // End of addLoanInformation()
 
 	@Override
 	public boolean deleteLoanInformation(String bankName) {
@@ -33,7 +33,7 @@ public class LoanDAOImpl implements LoanDAO {
 			}
 		}
 		return false;
-	}
+	} // End of deleteLoanInformation()
 
 	@Override
 	public LoanProgRepository getloanPrograms() {
@@ -41,8 +41,6 @@ public class LoanDAOImpl implements LoanDAO {
 			log.info(LoanProgRepository.ARRAY_LIST.get(i));
 		}
 		return null;
-	}
+	} // End of getLoanProgram()
 
-	
-
-}
+} // End of class

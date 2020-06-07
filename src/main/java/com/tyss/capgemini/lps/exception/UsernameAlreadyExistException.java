@@ -13,5 +13,5 @@ public class UsernameAlreadyExistException extends RuntimeException {
 	@Override
 	public String getMessage() {
 		return msg;
-	}
-}
+	} // End of getMessage()
+}// End of class

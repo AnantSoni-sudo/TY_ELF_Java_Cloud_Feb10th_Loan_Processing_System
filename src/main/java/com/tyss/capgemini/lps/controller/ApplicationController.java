@@ -12,11 +12,18 @@ import com.tyss.capgemini.lps.service.ApplicationServices;
 import com.tyss.capgemini.lps.service.LoanServices;
 import com.tyss.capgemini.lps.validation.Validations;
 
-
+/**
+ * 
+ * @author Anant
+ *
+ */
 public class ApplicationController {
 	static Logger log = LogManager.getLogger(CustomerController.class);
 	Scanner scanner = new Scanner(System.in);
-
+	/**
+	 * 
+	 * @return
+	 */
 	public boolean logIn() {
 		int counter = 0;
 		String userName;
@@ -61,7 +68,13 @@ public class ApplicationController {
 				log.info(e.getMsg());
 			}
 	}
-	}
+	} // End of logIn()
+	
+	/**
+	 * 
+	 * @param userName
+	 * @param password
+	 */
 	public void menuOption(String userName, String password) {
 		ApplicationServices applicationServices = FactoryDAO.getApplicationServices();
 		LoanServices loanServices = FactoryDAO.getLoanServices();
@@ -106,6 +119,6 @@ public class ApplicationController {
 			log.info("Enter valid Choice");
 			break;
 		}
-	}
+	} // End of menuOption()
 
-}
+}// End of class

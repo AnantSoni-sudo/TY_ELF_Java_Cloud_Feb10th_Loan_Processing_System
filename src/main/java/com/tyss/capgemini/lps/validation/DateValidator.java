@@ -9,7 +9,7 @@ public class DateValidator {
 
 	public DateValidator(String dateFormat) {
 		this.dateFormat = dateFormat;
-	}
+	} 
 
 	public boolean isValid(String dateStr) {
 		DateFormat sdf = new SimpleDateFormat(this.dateFormat);
@@ -20,6 +20,6 @@ public class DateValidator {
 			return false;
 		}
 		return true;
-	}
+	} // End of isValid()
 
-}
+} // End of class

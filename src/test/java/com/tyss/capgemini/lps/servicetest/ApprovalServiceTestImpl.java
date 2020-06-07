@@ -17,16 +17,11 @@ import com.tyss.capgemini.lps.DAO.ApprovalDAO;
 import com.tyss.capgemini.lps.beans.ApprovalTeamBean;
 import com.tyss.capgemini.lps.factory.FactoryDAO;
 import com.tyss.capgemini.lps.service.ApprovalService;
-//import com.tyss.capgemini.lps.repository.LoanProcessingSystemDB;
-//import com.tyss.capgemini.lps.repository.LoanProgRepository;
-
-
 
 public class ApprovalServiceTestImpl {
 	private ApprovalTeamBean approvalBean = new ApprovalTeamBean();
 
-//	private ApprovalDAO approvalDAO = new ApprovalDAOImpl();
-private ApprovalService approvalService = FactoryDAO.getApprovalService();
+	private ApprovalService approvalService = FactoryDAO.getApprovalService();
 
 	@Test
 	void addClient() {
@@ -37,11 +32,11 @@ private ApprovalService approvalService = FactoryDAO.getApprovalService();
 		approvalBean.setEmailId("rajkumar12@gmail.com");
 		boolean flag = approvalService.addClient(approvalBean);
 		assertEquals(flag, true);
-	}
+	} // End of addClient()
+	
 	@Test
 	void getClient() {
-//		
-			List<ApprovalTeamBean> loanProcessingSystemDB = approvalService.viewApplication();
-			assertNotNull(loanProcessingSystemDB);
-}
-}
+		List<ApprovalTeamBean> loanProcessingSystemDB = approvalService.viewApplication();
+		assertNotNull(loanProcessingSystemDB);
+	} // End of getClient()
+} // End of class

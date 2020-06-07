@@ -13,11 +13,11 @@ public class ApprovalServiceImpl implements ApprovalService {
 	@Override
 	public boolean addClient(ApprovalTeamBean approvalBean) {
 		return dao.addClient(approvalBean);
-	}
+	} // End of addClient()
 
 	@Override
 	public List<ApprovalTeamBean> viewApplication() {
 		return dao.viewApplication();
-	}
+	} // End of viewApplication()
 
-}
+} // End of class

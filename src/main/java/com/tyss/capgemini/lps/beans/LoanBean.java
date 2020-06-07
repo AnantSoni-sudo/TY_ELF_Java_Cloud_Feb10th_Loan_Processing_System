@@ -9,4 +9,4 @@ public class LoanBean {
 	private String emi;
 	private String rateOfInterest;
 	private String loanAmount;
-}//End of Loan Bean
+}// End of class

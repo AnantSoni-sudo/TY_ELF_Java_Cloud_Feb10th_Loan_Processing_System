@@ -4,10 +4,7 @@ package com.tyss.capgemini.lps.DAO;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 
-import com.tyss.capgemini.lps.beans.ApplicationBean;
 import com.tyss.capgemini.lps.repository.LoanProcessingSystemDB;
-
-
 
 public class CustomerDAOImpl implements CustomerDAO {
 	static Logger log = LogManager.getLogger(CustomerDAOImpl.class);
@@ -38,25 +35,5 @@ public class CustomerDAOImpl implements CustomerDAO {
 			}
 		}
 		return false;
-	} // end of viewCustomer()
-
-//	@Override
-//	public boolean loanDetails() {
-//		for (LoanBean bean : LoanProgRepository.ARRAY_LIST) {
-//			log.info(LoanProgRepository.ARRAY_LIST + "\n");
-//			return true;
-//		}
-//		return false;
-//	} // end of loanDetails()
-
-//	@Override
-//	public boolean makeLoan(ApplicationBean bean) {
-//		for (ApplicationBean applicationBean : LoanProcessingSystemDB.APPLICATION_BEANS) {
-//			if(applicationBean.getApplicationId().equals(bean.getApplicationId()))
-//				return false;
-//		}
-////		LoanProcessingSystemDB.APPLICATION_BEANS.add(bean);
-//		return true;
-//	} // end of makeLoan()
-
-} // en
+	} // End of viewCustomer()
+} // End of class

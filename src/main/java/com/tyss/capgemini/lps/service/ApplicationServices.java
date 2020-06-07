@@ -13,6 +13,8 @@ public interface ApplicationServices {
 	public boolean updateApplicationStatus(int appId, String status);
 
 	public ApplicationBean getAllApplication(String loanType);
+	
 	public boolean makeLoan(ApplicationBean applicationBean);
+	
 	public boolean applicantLoanDetails(String userName, String password);
-}
+} // End of interface

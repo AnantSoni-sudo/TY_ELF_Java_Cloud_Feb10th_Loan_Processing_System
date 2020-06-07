@@ -10,6 +10,5 @@ public interface LoanDAO {
 	public boolean deleteLoanInformation(String bankName);
 
 	public LoanProgRepository getloanPrograms();
-
 	
-}
+} // End of interface

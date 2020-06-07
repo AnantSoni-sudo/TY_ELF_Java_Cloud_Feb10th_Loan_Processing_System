@@ -19,4 +19,4 @@ public class CustomerBean {
 	private Double loanAmount;
 	private String loanApprovedDate;
 	private String loanType;
-}//end of CustomerBean
+}// End of class

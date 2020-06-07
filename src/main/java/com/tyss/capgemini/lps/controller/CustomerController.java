@@ -19,11 +19,19 @@ import com.tyss.capgemini.lps.service.CustomerServicesImpl;
 import com.tyss.capgemini.lps.service.LoanServices;
 import com.tyss.capgemini.lps.service.LoanServicesImpl;
 import com.tyss.capgemini.lps.validation.Validations;
-
+/**
+ * 
+ * @author Anant
+ *
+ */
 public class CustomerController {
 	static Logger log = LogManager.getLogger(CustomerController.class);
 	Scanner scanner = new Scanner(System.in);
 
+	/**
+	 * 
+	 * @return boolean
+	 */
 	public boolean logIn() {
 		int counter = 0;
 		String userName;
@@ -54,19 +62,25 @@ public class CustomerController {
 				}
 			}
 			try {
-			if (counter > 0) {
-				System.out.println("You have successfully logged in...");
-				menuOption(userName, password);
-				return true;
-			} else {
-				throw new UserNotFoundException("Invalid Username or Password");
-				
+				if (counter > 0) {
+					System.out.println("You have successfully logged in...");
+					menuOption(userName, password);
+					return true;
+				} else {
+					throw new UserNotFoundException("Invalid Username or Password");
+
+				}
+			}catch(UserNotFoundException e) {
+				log.info(e.getMsg());
 			}
-		}catch(UserNotFoundException e) {
-			log.info(e.getMsg());
 		}
-		}
-	}
+	} // End of logIn()
+
+	/**
+	 * 
+	 * @param appId
+	 * @return boolean
+	 */
 	public boolean isApplicationId(Integer appId) {
 		for (ApplicationBean applicationBean : LoanProcessingSystemDB.APPLICATION_BEANS) {
 			if (appId.equals(applicationBean.getApplicationId())) {
@@ -74,8 +88,13 @@ public class CustomerController {
 			}
 		}
 		return false;
-	}
-	
+	} // End of isApplicationId()
+
+	/**
+	 * 
+	 * @param userName
+	 * @return boolean
+	 */
 	public boolean isUserName(String userName) {
 		for (ApplicationBean applicationBean : LoanProcessingSystemDB.APPLICATION_BEANS) {
 			if (userName.equals(applicationBean.getUserName())) {
@@ -83,9 +102,11 @@ public class CustomerController {
 			}
 		}
 		return false;
-	}
-	
+	} // End of isUserName()
 
+	/**
+	 * void
+	 */
 	public void makeLoan() {
 		ApplicationServices applicationService = FactoryDAO.getApplicationServices();
 		ApplicationBean applicationBean = new ApplicationBean();
@@ -93,7 +114,7 @@ public class CustomerController {
 		int choice = 0;
 		while(true) {
 			log.info("Enter Application Id :- ");
-				try {
+			try {
 				int appId =0;
 				String id = scanner.nextLine();
 				if (Validations.isNumber(id)) {
@@ -102,8 +123,8 @@ public class CustomerController {
 						throw new IdExistsException("This Application Id Already Exists");
 					}
 					else {
-						
-				applicationBean.setApplicationId(appId);
+
+						applicationBean.setApplicationId(appId);
 					}
 					break;
 				}
@@ -111,32 +132,32 @@ public class CustomerController {
 				else {
 					log.info("Enter Number Only!!!");
 				}
-				}
-				catch (IdExistsException e) {
-					log.info(e.getMsg());
-				}
-
 			}
-			
+			catch (IdExistsException e) {
+				log.info(e.getMsg());
+			}
+
+		}
+
 		while(true) {
 			log.info("Enter Username :- ");
 			try {
-			String userName = scanner.nextLine().trim();
-			if (Validations.isUsername(userName)) {
-				if(isUserName(userName)) {
-					throw new UserNameException("This Username already exist....!!");
+				String userName = scanner.nextLine().trim();
+				if (Validations.isUsername(userName)) {
+					if(isUserName(userName)) {
+						throw new UserNameException("This Username already exist....!!");
+					}
+					else {
+						applicationBean.setUserName(userName);
+
+					}
+					break;
+				}else {
+					log.info("username must contain minimum 6 alphabets and atleast 1 number");
 				}
-				else {
-				applicationBean.setUserName(userName);
-                
+			}catch (UserNameException e) {
+				log.info(e.getMsg());
 			}
-				break;
-			}else {
-				log.info("username must contain minimum 6 alphabets and atleast 1 number");
-			}
-		}catch (UserNameException e) {
-			log.info(e.getMsg());
-		}
 		}
 		while(true) {
 			log.info("Enter Password :- ");
@@ -266,9 +287,15 @@ public class CustomerController {
 		} else {
 			log.info("Request Failed");
 		}
-		
-	}// end of makeLoan()
 
+	}// End of makeLoan()
+	
+	
+	/**
+	 * 
+	 * @param userName
+	 * @param password
+	 */
 	public void menuOption(String userName, String password) {
 		CustomerServices customerService = FactoryDAO.getCustomerServices();
 		int choice = 0;
@@ -322,5 +349,5 @@ public class CustomerController {
 			log.info("Enter proper Choice");
 			break;
 		}
-	}
-} // CustomerController
+	} // End of menuOption()
+}// End of class

@@ -19,9 +19,6 @@ public class AdminException extends Exception{
 
 	public void setMsg(String msg) {
 		this.msg = msg;
-	}
+	}	
 
-	
-	
-
-}
+} // // End of class

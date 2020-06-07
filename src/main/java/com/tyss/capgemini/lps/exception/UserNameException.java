@@ -15,11 +15,10 @@ private static final long serialVersionUID = 1L;
 
 	public String getMsg() {
 		return msg;
-	}
+	} //End of getMsg()
 
 	public void setMsg(String msg) {
 		this.msg = msg;
-	}
+	} // End of setMsg()
 
-
-}
+}// End of class

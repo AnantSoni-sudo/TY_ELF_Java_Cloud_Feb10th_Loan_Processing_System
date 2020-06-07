@@ -5,10 +5,17 @@ import java.util.Scanner;
 import org.apache.log4j.Logger;
 
 import com.tyss.capgemini.lps.validation.Validations;
-
+/**
+ * 
+ * @author Anant
+ *
+ */
 public class HomePage {
 	static Logger log = Logger.getLogger(HomePage.class);
 
+	/**
+	 * void
+	 */
 	public static void getStarted() {
 		int userChoice = 0;
 		try (Scanner scanner = new Scanner(System.in)) {
@@ -114,5 +121,5 @@ public class HomePage {
 				}
 			}
 		}
-	}
-}
+	} // End of getStarted()
+}// End of class

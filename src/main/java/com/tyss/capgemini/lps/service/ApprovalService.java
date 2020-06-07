@@ -8,4 +8,4 @@ public interface ApprovalService {
 	public boolean addClient(ApprovalTeamBean approvalBean);
 
 	public List<ApprovalTeamBean> viewApplication();
-}
+} // End of Interface

@@ -8,4 +8,4 @@ public interface ApprovalDAO {
 	public boolean addClient(ApprovalTeamBean approvalBean);
 
 	public List<ApprovalTeamBean> viewApplication();
-}
+} // End of interface

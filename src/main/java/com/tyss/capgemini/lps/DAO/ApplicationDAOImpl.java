@@ -7,7 +7,11 @@ import org.apache.log4j.Logger;
 import com.tyss.capgemini.lps.beans.ApplicationBean;
 import com.tyss.capgemini.lps.beans.CustomerBean;
 import com.tyss.capgemini.lps.repository.LoanProcessingSystemDB;
-
+/**
+ * 
+ * @author Anant
+ *
+ */
 public class ApplicationDAOImpl implements ApplicationDAO {
 	Logger log = Logger.getLogger(ApplicationDAOImpl.class);
 
@@ -20,13 +24,13 @@ public class ApplicationDAOImpl implements ApplicationDAO {
 		}
 		LoanProcessingSystemDB.CUSTOMER_BEANS.add(bean);
 		return true;
-	}
+	} // End of addApplication()
 
 	@Override
 	public List<ApplicationBean> viewApplication() {
 		List<ApplicationBean> applicationBean = LoanProcessingSystemDB.APPLICATION_BEANS;
 		return applicationBean;
-	}
+	} // End of viewApplication()
 	
 	@Override
 	public boolean makeLoan(ApplicationBean bean) {
@@ -34,9 +38,8 @@ public class ApplicationDAOImpl implements ApplicationDAO {
 			if(applicationBean.getApplicationId().equals(bean.getApplicationId()))
 				return false;
 		}
-//		LoanProcessingSystemDB.APPLICATION_BEANS.add(bean);
 		return true;
-	}
+	} // End of makeLoan()
 
 	@Override
 	public boolean updateApplicationStatus(int appId, String status) {
@@ -47,7 +50,7 @@ public class ApplicationDAOImpl implements ApplicationDAO {
 			}
 		}
 		return false;
-	}
+	} // End of updateApplicationStatus()
 
 	@Override
 	public ApplicationBean getAllApplication(String loanType) {
@@ -59,7 +62,7 @@ public class ApplicationDAOImpl implements ApplicationDAO {
 			}
 		}
 		return null;
-	}
+	} // End of getAllApplication()
 
 	@Override
 	public boolean applicantLoanDetails(String userName, String password) {
@@ -82,6 +85,6 @@ public class ApplicationDAOImpl implements ApplicationDAO {
 			}
 		}
 		return false;
-	} // end of loanDetails()
-}
+	} // end of applicantLoanDetails()
+}// End of class
 

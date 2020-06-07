@@ -124,5 +124,5 @@ public class LoanProcessingSystemDB {
 		applicationBean4.setStatus("Requested");
 		applicationBean4.setLoanType("House Improvement");
 		APPLICATION_BEANS.add(applicationBean4);
-	}
-}
+	} // End of Block
+} // End of class

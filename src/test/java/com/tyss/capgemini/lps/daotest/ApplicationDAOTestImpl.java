@@ -29,18 +29,19 @@ public class ApplicationDAOTestImpl {
 			applicationDao.addApplication(customer);
 		}
 		;
-	} // end of catch block
+	} // End of catch block
 
 	@Test
 	void getAllApplicationTest() {
 		List<ApplicationBean> allApplication = applicationDao.viewApplication();
 		assertNotNull(allApplication);
-	}
+	} // End of getAllApplicationTest()
+	
 	@Test
 	void applicantLoanDetails() {
 		boolean flag = applicationDao.applicantLoanDetails("Rajuguru12", "Raju@123");
 		assertEquals(flag, true);
-	} // Add in ApplicationDAOTestImpl
+	} // End of ApplicationDAOTestImpl
 
 	@Test
 	void updateApplication() {
@@ -52,7 +53,7 @@ public class ApplicationDAOTestImpl {
 		} catch (Exception e) {
 			applicationDao.updateApplicationStatus(702, "Accept");
 		}
-	} // end of catch block
+	} // End of updateApplication()
 	
 	@Test
 	void makeLoan() {
@@ -69,16 +70,6 @@ public class ApplicationDAOTestImpl {
 		boolean flag = applicationDao.makeLoan(application);
 		assertEquals(flag, true);
 		
-	}
+	} // End of makeLoan()
 
-//	@Test
-//	void getApplicationByStatausTest() {
-//		application.setLoanType("Home Construction");
-//		try {
-//			ApplicationBean applicationBean = applicationDao.getAllApplication("Home Construction");
-//			assertNotNull(applicationBean);
-//		} catch (Exception e) {
-//			applicationDao.getAllApplication(application.getStatus());
-//		}
-//	}
-}
+} // End of class

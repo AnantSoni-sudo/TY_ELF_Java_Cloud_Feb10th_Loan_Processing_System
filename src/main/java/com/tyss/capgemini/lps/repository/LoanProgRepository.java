@@ -9,7 +9,7 @@ public class LoanProgRepository {
 
 	static {
 		LoanBean loanBean1 = new LoanBean();
-		loanBean1.setBankName(" HDFC Bank");
+		loanBean1.setBankName("HDFC Bank");
 		loanBean1.setLoanType("Loan Type :House Extention Loan");
 		loanBean1.setEmi("EMI: 75274");
 		loanBean1.setRateOfInterest("Rate of interest:8.00%");
@@ -25,7 +25,7 @@ public class LoanProgRepository {
 		ARRAY_LIST.add(loanBean2);
 
 		LoanBean loanBean3 = new LoanBean();
-		loanBean3.setBankName(" VIJAYA Bank");
+		loanBean3.setBankName("VIJAYA Bank");
 		loanBean3.setLoanType("Loan Type:House Improvement loan");
 		loanBean3.setEmi("EMI :25000");
 		loanBean3.setRateOfInterest("Rate of Interest: 7.5%");
@@ -39,5 +39,5 @@ public class LoanProgRepository {
 		loanBean4.setRateOfInterest("Rate of Interest: 7.5%");
 		loanBean4.setLoanAmount("Loan Amount :400000 ");
 		ARRAY_LIST.add(loanBean4);
-	}
-}
+	} // End of Block
+}// End of class

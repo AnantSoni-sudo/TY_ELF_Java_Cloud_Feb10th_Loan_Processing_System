@@ -10,4 +10,4 @@ public class AdminBean {
 	private String firstName;
 	private String lastName;
 	private String emailId;
-}// end of AdminBean
+}// End of class

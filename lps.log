@@ -2554,3 +2554,61 @@ LOGGED OUT...
 	4 - Make Loan  : 
 ----------------------------------------------------
 Enter your choice    : 
+Profile :- 
+Application ID      : 700
+First Name          : Raju
+Last Name           : Guru
+Username            : Rajuguru12
+Password            : Raju@123
+Email               : raju@gmail.com
+Date of Birth       : 20-02-1988
+Mobile Number       : 9638527412
+Loan Type           : House Extention
+Application Status   : Requested
+LoanBean(bankName= HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=CANARA Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+LoanBean(bankName=null, loanType=null, emi=null, rateOfInterest=null, loanAmount=null)
+LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi=4500, rateOfInterest=8.0%, loanAmount=200000)
+LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi=4500, rateOfInterest=8.0%, loanAmount=200000)
+LoanBean(bankName= HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=CANARA Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+LoanBean(bankName=null, loanType=null, emi=null, rateOfInterest=null, loanAmount=null)
+LoanBean(bankName=HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=CANARA Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+LoanBean(bankName=null, loanType=null, emi=null, rateOfInterest=null, loanAmount=null)
+LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi=4500, rateOfInterest=8.0%, loanAmount=200000)
+LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi=4500, rateOfInterest=8.0%, loanAmount=200000)
+LoanBean(bankName=HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=CANARA Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName= VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+LoanBean(bankName=null, loanType=null, emi=null, rateOfInterest=null, loanAmount=null)
+Profile :- 
+Application ID      : 700
+First Name          : Raju
+Last Name           : Guru
+Username            : Rajuguru12
+Password            : Raju@123
+Email               : raju@gmail.com
+Date of Birth       : 20-02-1988
+Mobile Number       : 9638527412
+Loan Type           : House Extention
+Application Status   : Requested
+LoanBean(bankName=HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=CANARA Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName=VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+LoanBean(bankName=null, loanType=null, emi=null, rateOfInterest=null, loanAmount=null)
+LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi=4500, rateOfInterest=8.0%, loanAmount=200000)
+LoanBean(bankName=HDFC Bank, loanType=Home Loan, emi=4500, rateOfInterest=8.0%, loanAmount=200000)
+LoanBean(bankName=HDFC Bank, loanType=Loan Type :House Extention Loan, emi=EMI: 75274, rateOfInterest=Rate of interest:8.00%, loanAmount=Loan Amount :500000)
+LoanBean(bankName=CANARA Bank, loanType=Loan Type:House Construction loan, emi=EMI : 26000, rateOfInterest=Rate of Interest 7.00%, loanAmount=Loan Amount :5500000 )
+LoanBean(bankName=VIJAYA Bank, loanType=Loan Type:House Improvement loan, emi=EMI :25000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :2500000 )
+LoanBean(bankName=KARNATAKA Bank, loanType=Loan Type:House Conversion loan, emi=EMI :35000, rateOfInterest=Rate of Interest: 7.5%, loanAmount=Loan Amount :400000 )
+LoanBean(bankName=null, loanType=null, emi=null, rateOfInterest=null, loanAmount=null)

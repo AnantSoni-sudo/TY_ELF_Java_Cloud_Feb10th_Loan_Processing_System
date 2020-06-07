@@ -14,4 +14,4 @@ public class ApplicationBean {
 	private String emailId;
 	private String status;
 	private String loanType;
-}//end of Application Bean
+}// End of class

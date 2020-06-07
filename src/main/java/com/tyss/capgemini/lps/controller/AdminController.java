@@ -25,13 +25,22 @@ import com.tyss.capgemini.lps.service.ApprovalServiceImpl;
 import com.tyss.capgemini.lps.service.LoanServices;
 import com.tyss.capgemini.lps.service.LoanServicesImpl;
 import com.tyss.capgemini.lps.validation.Validations;
-
+/**
+ * 
+ * @author Anant
+ * Admin Controller
+ *
+ */
 public class AdminController {
 
 	static Logger log = LogManager.getLogger(AdminController.class);
 	Scanner scanner = new Scanner(System.in);
 	List<ApplicationBean> applicationBean2 = LoanProcessingSystemDB.APPLICATION_BEANS;
-
+	
+	/**
+	 * adminLogin()
+	 * @return boolean
+	 */
 	public boolean adminLogin() {
 		int count = 0;
 		String userName;
@@ -74,6 +83,11 @@ public class AdminController {
 	}
 	}// end of login
 
+	/**
+	 * 
+	 * @param empId
+	 * @return
+	 */
 	public boolean isEmpId(Integer empId) {
 		for (ApprovalTeamBean approvalTeamBean : LoanProcessingSystemDB.APPROVAL_TEAM_BEANS) {
 			if (empId.equals(approvalTeamBean.getEmpId())) {
@@ -83,6 +97,11 @@ public class AdminController {
 		return false;
 	}//end of isEmpId
 
+	/**
+	 * 
+	 * @param email
+	 * @return
+	 */
 	public boolean isVerify(String email) {
 		for (ApprovalTeamBean approvalTeamBean : LoanProcessingSystemDB.APPROVAL_TEAM_BEANS) {
 			if (email.equals(approvalTeamBean.getEmailId())) {
@@ -92,6 +111,11 @@ public class AdminController {
 		return false;
 	}//end of isVerify
 
+	/**
+	 * 
+	 * @param userName
+	 * @return
+	 */
 	public boolean isUserName(String userName) {
 		for (ApprovalTeamBean approvalBean : LoanProcessingSystemDB.APPROVAL_TEAM_BEANS) {
 			if (userName.equals(approvalBean.getUserName())) {
@@ -435,5 +459,5 @@ public class AdminController {
 			break;
 		}
 		scanner.close();
-	}
-}
+	}// End of adminMenu()
+}// End of class

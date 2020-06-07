@@ -13,13 +13,20 @@ import com.tyss.capgemini.lps.repository.LoanProcessingSystemDB;
 import com.tyss.capgemini.lps.service.ApplicationServices;
 import com.tyss.capgemini.lps.service.LoanServices;
 import com.tyss.capgemini.lps.validation.Validations;
-
+/**
+ * 
+ * @author Anant
+ *
+ */
 public class ApprovalTeamController {
 	static Logger log = Logger.getLogger(ApprovalTeamBean.class);
 	List<ApplicationBean> applicationBean2 = LoanProcessingSystemDB.APPLICATION_BEANS;
 
 	Scanner scanner = new Scanner(System.in);
-
+	/**
+	 * 
+	 * @return boolean
+	 */
 	public boolean approvalLogin() {
 
 		int count = 0;
@@ -59,8 +66,11 @@ public class ApprovalTeamController {
 				return false;
 			}
 		}
-	}
+	} // End of approvalLogin()
 
+	/**
+	 * void
+	 */
 	public void approvalMenu() {
 
 
@@ -78,7 +88,7 @@ public class ApprovalTeamController {
 			} else {
 				log.info("Enter Number Only!!!");
 			}
-		}
+		} 
 
 		switch (option) {
 
@@ -184,5 +194,5 @@ public class ApprovalTeamController {
 			log.info("Please Enter Valid Choice!!");
 			break;
 		}
-	}
-}
+	} // End of approveMenu()
+}// End of class

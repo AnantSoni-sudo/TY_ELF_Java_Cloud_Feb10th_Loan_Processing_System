@@ -9,4 +9,4 @@ public class ApprovalTeamBean {
 	private String password;
 	private String emailId;
 	private String userName;
-}//end of ApprovalBean
+}// End of class

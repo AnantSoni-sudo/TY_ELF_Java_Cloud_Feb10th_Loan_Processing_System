@@ -7,23 +7,13 @@ import org.junit.jupiter.api.Test;
 import com.tyss.capgemini.lps.factory.FactoryDAO;
 import com.tyss.capgemini.lps.service.CustomerServices;
 
-
-
 public class CustomerServiceTestImpl {
-	
-
 
 	private CustomerServices customerService = FactoryDAO.getCustomerServices();
 
 	@Test
 	void viewCustomer() {
-		
 			boolean flag = customerService.viewCustomer("andrew12", "Andrew@123");
 			assertEquals(flag, true);
-		
-		
-		
-	}
-	
-	
-}
+	} // End of viewCustomer()
+} // End of class
